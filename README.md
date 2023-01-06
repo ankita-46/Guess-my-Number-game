@@ -4,6 +4,6 @@
 -User is supposed to guess a number in 1 to 20 range 
 
 ### Tech-Stack :
-*HTML
-*CSS
-*JavaScript
+* HTML
+* CSS
+* JavaScript
